@@ -1,0 +1,4 @@
+XGBoost churn classifier
+Active cohort size: 10325
+Base churn rate: 0.254
+Test AUC-ROC: 0.693

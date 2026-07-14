@@ -1,0 +1,4 @@
+Gradient Boosting Regressor — 90-day forward CLV prediction
+Train rows: 7000, Test rows: 1751
+MAE: 1872.78
+R2: 0.184
